@@ -1,2 +1,2 @@
 # My Resume
-![resume](resume.pdf "Resume")
+![](https://github.com/durcor/resume/blob/master/resume.pdf)
