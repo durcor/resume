@@ -1,0 +1,116 @@
+**tyjoka\@protonmail.com** (973) 529-2539
+
+32 Farview Drive, Hackettstown, NJ 07840
+
+**tkamins1\@stevens.edu**
+
+S-4777 1 Castle Point Terrace, Hoboken, NJ 07030
+
+-   [**Education**]
+
+    -   Stevens Institute of Technology, *Hoboken, NJ*
+
+        -   GPA - 3.727
+
+        -   Bachelors of Science in Computer Science
+
+        -   [Honors]: FIRST Robotics Scholarship,
+            Edwin A. Stevens Scholarship, Presidential Scholarship,
+            Dean's List (19F - Present)
+
+        -   [Coursework]: Algorithms (C++),
+            Computer Organization and Programming (ARMv8 + C), Automata
+            and Computation, Systems Programming (Bash + C),
+            Introduction to Text Mining and Statistical Natural Language
+            Processing (Python - NLTK + Scikit-learn).
+
+-   [**Skills**](linkedin.com/in/tyka)
+
+    -   Comfortable with Linux and UNIX System Administration,
+        Bash/POSIX shell, C and C++, Python, AWK/sed, Git, Vim, LaTeX,
+        and HTML/CSS.
+
+    -   Proficient with R, JS, GTK, ARMv8.
+
+-   [**Projects**](github.com/durcor)
+
+    -   **blocks** *POSIX shell, AWK*
+
+        -   Using interfaces such as Linux's sysfs and curl to collect
+            and process text for display in a status bar.
+
+    -   **ShadowReplay** *POSIX shell*
+
+        -   Unofficial port of NVIDIA's ShadowPlay functionality to
+            Linux using ffmpeg, supporting GPU encoders (NVENC, AMF,
+            QuickSync) and CPU encoding (libx264).
+
+    -   **oc** *POSIX shell*
+
+        -   Utility for easily and automatically overclocking AMD GPUs
+            on Linux.
+
+    -   **Linux System Automation** *POSIX shell, vimscript, C*
+
+        -   Collection of shell scripts for automating Linux system
+            administration, such as configuration file management and
+            system administration.
+
+-   [**Leadership Experiences**]
+
+    -   **Hackettstown High School FIRST Robotics**, *Hackettstown, NJ*
+
+        -   Mentor for educating new team members with software and
+            logistical team operations
+
+        -   Quartermaster for inventorying and organizing team supplies
+
+        -   Lead Graphics Designer - Designed graphics for team's
+            shirts, spirit wear, and website/documents
+
+        -   Head Field Scout - Provided scouting knowledge to the team
+            with the data of other team's robots
+
+        -   Communicated with companies about potential sponsorships and
+            general marketing
+
+        -   Developed and produced components for mechanical and
+            programming teams
+
+    -   **Hackettstown High School Political Club**, *Hackettstown, NJ*
+
+        -   President - Directed club discussion, assisted club
+            operation, and picked topics to discuss
+
+        -   Registered Juniors and Seniors to vote
+
+    -   **Spanish Honor Society**, *Hackettstown, NJ*
+
+        -   Co-President - Oversaw operation of fund-raisers and
+            activities
+
+    -   **American Legion Jersey Boys State**, *Lawrenceville, NJ*
+        ***(Jun. 2018)***
+
+        -   Elected as a Fillmore City Councilman
+
+        -   Completed Fillmore City's manual and solved City issues
+            through enacting ordinances
+
+-   [**Work Experiences**]
+
+    -   **Johnson & Johnson Extern**, *Raritan, NJ*
+
+        -   Learned Scrum and how to develop software using the Agile
+            methodology
+
+    -   **JPMorgan Chase Extern**, *Jersey City, NJ*
+
+        -   Learned how to utilize software development tools such as
+            Git and cloud computing frameworks to develop software
+            efficiently and reliably
+
+    -   **Political Campaign Intern**, *Mount Olive, NJ*
+
+        -   Surveyed voters, distributed campaign literature, and
+            supported a local congressman's congressional campaign
