@@ -1,14 +1,15 @@
 FILE		= tex
-SRC_PATH	= src/
-OUT_PATH	= bin/
+SRC_DIR		= src
+OUT_DIR		= bin
 COMPILER	= pdflatex
-FLAGS		= -output-directory $(OUT_PATH)
-SRC_FILES	= $(wildcard $(SRC_PATH)*.$(FILE))
-TARGET		= $(patsubst $(SRC_PATH)%.$(FILE),%,$(SRC_FILES))
+FLAGS		= -output-directory $(OUT_DIR)
+SRC_FILES	= $(wildcard $(SRC_DIR)/*.$(FILE))
+TARGET		= $(patsubst $(SRC_DIR)/%.$(FILE),%,$(SRC_FILES))
 
 all:
+	mkdir -p $(OUT_DIR)
 	$(COMPILER) $(FLAGS) $(SRC_FILES)
-	pdftoppm $(OUT_PATH)$(TARGET).pdf | pnmtopng > $(OUT_PATH)$(TARGET).png
+	pdftoppm $(OUT_DIR)/$(TARGET).pdf | pnmtopng > $(OUT_DIR)/$(TARGET).png
 
 clean:
-	rm -rf $(wildcard $(OUT_PATH)*)
+	rm -r $(OUT_DIR)
