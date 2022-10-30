@@ -12,8 +12,8 @@
     - Implemented Python prototype and optimized with C simulation code
     - Worked in a team of 3 to design and implement the simulation
 - **GrailGUI Secure Repository** *C/C++, POSIX Shell* [github.com/durcor/GrailGUI](https://github.com/durcor/GrailGUI)
-    - Implemented a Google Drive file upload client and steganographic algorithm
-    - Worked with four other developers to create a cryptographic key safe for a client's project
+    - Implemented a steganographic algorithm and Google Drive file upload client.
+    - Worked with four other developers to create a cryptographic key safe for a client's project.
 - **ShadowRePlay** *POSIX shell* [github.com/MAPReiff/ShadowRePlay-Linux](https://github.com/MAPReiff/ShadowRePlay-Linux)
     - Unofficial port of NVIDIA's ShadowPlay functionality to Linux using ffmpeg, supporting GPU encoders (NVENC, AMF, QuickSync) and CPU encoding (libx264).
     - Responded to GitHub issues and pull requests with another developer to improve software experience.
