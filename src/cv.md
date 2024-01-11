@@ -18,7 +18,7 @@
     - Unofficial port of NVIDIA's ShadowPlay functionality to Linux using ffmpeg, supporting GPU encoders (NVENC, AMF, QuickSync) and CPU encoding (libx264).
     - Responded to GitHub issues and pull requests with another developer to improve software experience.
 
-- **Forest Fire Prediction** *Python - Scikit-learn* [
+- **Forest Fire Prediction** *Python - Scikit-learn*
 - **Linux System Automation** *POSIX shell, vimscript* [github.com/durcor/friedrice](https://github.com/durcor/friedrice)
     - Collection of shell scripts for automating Linux system administration, such as configuration file management and system administration.
 - **oc** *POSIX shell* [github.com/durcor/oc](https://github.com/durcor/oc)
@@ -34,3 +34,6 @@
     - President - Directed club discussion, assisted club operation, and picked topics to discuss.
 - **American Legion Jersey Boys State**, *Lawrenceville, NJ* **(Jun. 2018)**
     - Elected as a City Councilman - Completed city manual and solved issues through enacting ordinances.
+
+# Education
+Coursework: Systems Programming (**Bash + C**), Systems Administration (**POSIX shell**), Systems Security (**Python, C, x86**), Operating Systems (**C**), Algorithms (C++), Computer Organization (**ARMv8 + C**), Automata and Computation, Text Mining and Statistical Natural Language Processing (**Python - NLTK + Scikit-learn**), Computer Vision (**Python - OpenCV**), Concurrent Programming (**Erlang**), Quantitative Biology (**Python - Scikit-learn**), Agile Methods (**Godot - gdscript**).
