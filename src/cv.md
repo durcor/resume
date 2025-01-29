@@ -5,6 +5,7 @@
 
 # Projects
 - **prev** *POSIX Shell, VimScript* [github.com/durcor/prev](https://github.com/durcor/prev)
+    - File previewer with support for both plain-text and binary files.
     - Developed a file previewer with support for both plain-text and binary files
     - Implemented CI/CD using GitHub Actions for environment setup and execution
 - **Saturn Ring Gap Simulation** *C, Python - matplotlib* [github.com/durcor/ring-gap-sim](https://github.com/durcor/ring-gap-sim)
@@ -25,6 +26,9 @@
     - Utility for easily and automatically overclocking AMD GPUs on Linux.
 
 # Leadership Experience
+- Stevens Linux Users Group, *Hoboken, NJ* **(Feb. 2020 - May 2022)**
+    - Founder and President - organized logistics of organization creation, led recruitment, and moderated communications.
+    - Communicated with student government and faculty, created a budget, and held interest meetings and events discussing free and open source software and hardware.
 - **Hackettstown High School FIRST Robotics**, *Hackettstown, NJ* **(Sept. 2016 - Present)**
     - Mentor for educating new team members with software and logistical team operations.
     - Quartermaster for inventorying and organizing team supplies.

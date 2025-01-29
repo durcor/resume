@@ -1,116 +1,143 @@
-**tyjoka\@protonmail.com** (973) 529-2539
+::: flushleft
+\
+\
+\
 
-32 Farview Drive, Hackettstown, NJ 07840
+-   [**Work Experience**]{style="color: blue"}
+    ([linkedin.com/in/tyka](https://linkedin.com/in/tyka))
 
-**tkamins1\@stevens.edu**
+    -   **Software Operations Engineer II**, Shield AI, *San Diego, CA*
+        **(Dec. 2024 - Present)**
 
-S-4777 1 Castle Point Terrace, Hoboken, NJ 07030
+        -   Supported developers with Terraform-managed infrastructure.
 
--   [**Education**]
+        -   Constructed and debugged PromQL queries to display in
+            Grafana according to engineering leadership's metric needs.
 
-    -   Stevens Institute of Technology, *Hoboken, NJ*
+        -   Ported an in-development SDK from Ubuntu to RHEL.
 
-        -   GPA - 3.727
+        -   Managed docker image creation infrastructure with
+            kubernetes.
+
+        -   Supported other development teams with Terraform-managed
+            infrastructure.
+
+    -   **Developer Experience Engineer II**, Shield AI, *San Diego, CA*
+        **(Apr. 2024 - Dec. 2024)**
+
+        -   Debugged and implemented CI/CD functionality using Azure
+            DevOps.
+
+        -   Assisted in porting company-managed conan packages from
+            conan1 to conan2.
+
+        -   Migrated project management infrastructure between Azure
+            DevOps instances.
+
+    -   **Software Engineer**, G3 Technologies, Inc., *Berkeley Heights,
+        NJ* **(Jun. 2022 - Apr 2024)**
+
+        -   Migrated a virtual machine-based multi-project product to a
+            containerized microservices environment.
+
+        -   Implemented end-to-end automated integration testing during
+            project CI/CD builds.
+
+        -   Debugged telecommunications applications using network
+            protocols such as SIP, NGAP, and S1AP.
+
+        -   Migrated an IPv4 application to a dualstack IPv4/IPv6
+            backend.
+
+        -   Profiled and optimized throughput of a packet router.
+
+        -   Implemented cellular core network features in a C++
+            object-oriented codebase.
+
+        -   Upgraded a multi-project product from Ubuntu 16/18 to Ubuntu
+            22.
+
+        -   Packaged and tested various C/C++ projects using the conan
+            package manager.
+
+    -   **Systems Programming Course Assistant**, Stevens Institute of
+        Technology **(Jan. - May 2022)**
+
+        -   Taught principles of low-level Linux systems programming in
+            C and held office hours for student questions.
+
+        -   Helped students in understanding C concepts such as memory
+            pointers, memory management, and file I/O.
+
+    -   **Computer Organization Course Assistant**, Stevens Institute of
+        Technology **(Aug. - Dec. 2021)**
+
+        -   Taught principles of computer architecture to students
+            through programming labs focused on writing programs in
+            ARMv8 and during office hours.
+
+        -   Helped students in understanding assembly programming, stack
+            management, and the basics of translation from higher-level
+            languages to assembly.
+
+    -   **Customer Engineering Intern**, Ricoh, *Brooklyn, NY* **(Jun. -
+        Aug. 2021)**
+
+        -   Worked with IT managers, school administration, and teachers
+            to manage technology infrastructure of charter schools
+            throughout Brooklyn.
+
+        -   Oversaw Microsoft Active Directory user creation, teacher
+            profile setup, and hardware and software troubleshooting and
+            replacement.
+
+-   [**Education**]{style="color: blue"}
+
+    -   Stevens Institute of Technology, *Hoboken, NJ* **(Aug. 2019 -
+        May 2022)**
 
         -   Bachelors of Science in Computer Science
 
-        -   [Honors]: FIRST Robotics Scholarship,
-            Edwin A. Stevens Scholarship, Presidential Scholarship,
-            Dean's List (19F - Present)
+        -   GPA - 3.801
 
-        -   [Coursework]: Algorithms (C++),
-            Computer Organization and Programming (ARMv8 + C), Automata
-            and Computation, Systems Programming (Bash + C),
-            Introduction to Text Mining and Statistical Natural Language
-            Processing (Python - NLTK + Scikit-learn).
+-   [**Skills**]{style="color: blue"}
 
--   [**Skills**](linkedin.com/in/tyka)
+    -   Container orchestration, shell scripting, Linux/UNIX systems
+        programming and administration
 
-    -   Comfortable with Linux and UNIX System Administration,
-        Bash/POSIX shell, C and C++, Python, AWK/sed, Git, Vim, LaTeX,
-        and HTML/CSS.
+    -   **Tools:** Docker/docker-compose, Git, Vim, Wireshark, SSH, GDB,
+        Valgrind, LaTeX, AWS EC2, MySQL, sqlite, mariaDB, postgreSQL,
+        GTK
 
-    -   Proficient with R, JS, GTK, ARMv8.
+    -   **Languages:** C/C++, Bash/POSIX shell, Rust, Erlang, OCaml, R,
+        LISP, Python, AWK/sed, ARMv8
 
--   [**Projects**](github.com/durcor)
+-   [**Projects**]{style="color: blue"}
+    ([github.com/durcor](https://github.com/durcor))
 
     -   **blocks** *POSIX shell, AWK*
+        [github.com/durcor/blocks](https://github.com/durcor/blocks)
 
-        -   Using interfaces such as Linux's sysfs and curl to collect
-            and process text for display in a status bar.
+        -   Modular window manager status bar modules using interfaces
+            such as Linux's sysfs and curl to collect and process text.
 
-    -   **ShadowReplay** *POSIX shell*
+    -   **ShadowRePlay** *POSIX shell*
+        [github.com/MAPReiff/ShadowRePlay-Linux](https://github.com/MAPReiff/ShadowRePlay-Linux)
 
         -   Unofficial port of NVIDIA's ShadowPlay functionality to
-            Linux using ffmpeg, supporting GPU encoders (NVENC, AMF,
-            QuickSync) and CPU encoding (libx264).
+            Linux using ffmpeg, with GPU- and CPU-encoding support.
 
-    -   **oc** *POSIX shell*
+    -   **prev** *POSIX Shell, VimScript*
+        [github.com/durcor/prev](https://github.com/durcor/prev)
 
-        -   Utility for easily and automatically overclocking AMD GPUs
-            on Linux.
+        -   File previewer with support for both plain-text and binary
+            files.
 
-    -   **Linux System Automation** *POSIX shell, vimscript, C*
+    -   **Saturn Ring Gap Simulation** *C, Python - matplotlib*
+        [github.com/durcor/ring-gap-sim](https://github.com/durcor/ring-gap-sim)
 
-        -   Collection of shell scripts for automating Linux system
-            administration, such as configuration file management and
-            system administration.
+        -   Simulated the formation of Saturn's Cassini Ring Gap.
 
--   [**Leadership Experiences**]
-
-    -   **Hackettstown High School FIRST Robotics**, *Hackettstown, NJ*
-
-        -   Mentor for educating new team members with software and
-            logistical team operations
-
-        -   Quartermaster for inventorying and organizing team supplies
-
-        -   Lead Graphics Designer - Designed graphics for team's
-            shirts, spirit wear, and website/documents
-
-        -   Head Field Scout - Provided scouting knowledge to the team
-            with the data of other team's robots
-
-        -   Communicated with companies about potential sponsorships and
-            general marketing
-
-        -   Developed and produced components for mechanical and
-            programming teams
-
-    -   **Hackettstown High School Political Club**, *Hackettstown, NJ*
-
-        -   President - Directed club discussion, assisted club
-            operation, and picked topics to discuss
-
-        -   Registered Juniors and Seniors to vote
-
-    -   **Spanish Honor Society**, *Hackettstown, NJ*
-
-        -   Co-President - Oversaw operation of fund-raisers and
-            activities
-
-    -   **American Legion Jersey Boys State**, *Lawrenceville, NJ*
-        ***(Jun. 2018)***
-
-        -   Elected as a Fillmore City Councilman
-
-        -   Completed Fillmore City's manual and solved City issues
-            through enacting ordinances
-
--   [**Work Experiences**]
-
-    -   **Johnson & Johnson Extern**, *Raritan, NJ*
-
-        -   Learned Scrum and how to develop software using the Agile
-            methodology
-
-    -   **JPMorgan Chase Extern**, *Jersey City, NJ*
-
-        -   Learned how to utilize software development tools such as
-            Git and cloud computing frameworks to develop software
-            efficiently and reliably
-
-    -   **Political Campaign Intern**, *Mount Olive, NJ*
-
-        -   Surveyed voters, distributed campaign literature, and
-            supported a local congressman's congressional campaign
+        -   Implemented a Python prototype and optimized with C
+            simulation code.
+:::
